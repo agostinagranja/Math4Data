@@ -6,9 +6,9 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
     b- 4            N
     c- -3.1         Ra
     d- -1/4         Ra
-    e- 10.0         Ra
+    e- 10.0         N
     f- 2*e          I
-    g- -123.0004    Re
+    g- -123.0004    Ra
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
@@ -51,14 +51,14 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 **6)** Para un triángulo rectángulo de cateto_1 = 2, cateto_2= 3 e hipotenusa = 3.6, responde sobre el ángulo
 menor (redondea la respuesta a su PRIMER número decimal):
 
-    a- Cuál es su seno? Y/H = 2/3.6 = 0.55
-    b- Cuál es su coseno? X/H = 3/3.6 = 0.83
-    c- Cuál es su tangente? Y/X = sen/cos = 2/3 = 0.55/0.83 = 0.66 
+    a- Cuál es su seno? Y/H = 2/3.6 = 0.6
+    b- Cuál es su coseno? X/H = 3/3.6 = 0.8
+    c- Cuál es su tangente? Y/X = sen/cos = 2/3 = 0.55/0.83 = 0.7 
 
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
-    d- Cuántos grados mide el menor de los dos ángulos agudos? 33.69º
-    e- Y el mayor? 56.31º
+    d- Cuántos grados mide el menor de los dos ángulos agudos? 33.7º
+    e- Y el mayor? 56.3º
 
 **7)** Elige la opción correcta para cada caso.
 
@@ -86,9 +86,9 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 
 <img  src='./figuras/EX_9.png' height='270px'> 
 A - si
-B - no
+B - si 
 C - no
-D - no
+D - si
 E - no
 F - no
 
@@ -123,7 +123,7 @@ I - si
 **11)** Sobre las funciones del ejercicio anterior, responde V o F.
 
     -A  
-        - pendiente = 4             V
+        - pendiente = 4             F
         - ordenada al origen = 2    V
         - no es una recta           F
 
